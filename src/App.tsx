@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { FaTrain } from "react-icons/fa";
 import { AiOutlineClose } from "react-icons/ai";
-import image from "./assets/generated-image.png";
+import image from "./assets/trackcircuit.png";
 
 type SignalColor = "RED" | "YELLOW" | "DOUBLE_YELLOW" | "GREEN";
 
